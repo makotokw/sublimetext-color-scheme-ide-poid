@@ -1,6 +1,8 @@
 IDE poid : Sublime Text 2 Color Scheme
 =========================== 
 
+![ScreenShot](https://dl.dropbox.com/u/8932138/screenshot/ide-poid_2012-12-21_0539.png "ScreenShot")
+
 ## Installation
 
 Download this package as zip from https://github.com/makotokw/sublimetext-color-scheme-ide-poid, unzip it.
